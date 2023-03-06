@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+}
+
+
+
+.mainarea{
+  display: flex;
+  justify-content: space-around;
+
+}
+.editors{
+  background-color: rgb(9, 20, 122);
+  width: 100%;
+}
+textarea{
+  width: 100%;
+  min-height: 325px ;
+  overflow: scroll;
+  font-size: large;
+
+}
+iframe{
+  width: 100%;
+  height: 250px ;
+}
+h2{
+  color: beige;
+}
